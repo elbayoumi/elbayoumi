@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...  programing
 - 🤔 I’m looking for help with ... node 
 - 💬 Ask me about ... Angular
-- 📫 How to reach me: ... [Portfolio](google.com)
+- 📫 How to reach me: ... [Portfolio](https://elbayoumi.github.io/)
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ...good
