@@ -1,6 +1,5 @@
 ### here is whate i'm working on ! 👋
 
-**elbayoumi/elbayoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
