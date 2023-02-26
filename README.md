@@ -26,7 +26,7 @@ My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate 
 
 ### Back-End
 
-![nodejs](https://img.shields.io/badge/nodejs-ED8B00?style=for-the-badge&logo=node&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=f23b2f) 
+![nodejs](https://img.shields.io/badge/nodejs-026e00?style=for-the-badge&logo=node&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![laravel](https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=f23b2f) 
 
 <hr>
 
