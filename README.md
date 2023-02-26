@@ -15,12 +15,12 @@ My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate 
 <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
 ## Connect:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mohamedashrafelbayoumi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-elbayoumi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/00201020472050)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mohamedashrafelbayoumi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-elbayoumi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/00201020472050)
 
 ## Tools and Technologies I know
 
 ### Front-End
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)![angular](https://img.shields.io/badge/angular-%23323330.svg?logo=angular&logoColor=%23F7DF1E&style=for-the-badge)![typescript](https://img.shields.io/badge/typescript-%23323330.svg?logo=typescript&logoColor=%23F7DF1E&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)![angular](https://img.shields.io/badge/angular-%23c3002f.svg?logo=angular&logoColor=%23F7DF1E&style=for-the-badge)![typescript](https://img.shields.io/badge/typescript-%23323330.svg?logo=typescript&logoColor=%23F7DF1E&style=for-the-badge)
 
 <hr>
 
