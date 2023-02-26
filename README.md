@@ -26,13 +26,12 @@ My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate 
 
 ### Back-End
 
-![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![node](https://img.shields.io/badge/node-ED8B00?style=for-the-badge&logo=node&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![laravel](https://img.shields.io/badge/laravel-14354C?style=for-the-badge&logo=laravel&logoColor=white) 
+![nodejs](https://img.shields.io/badge/nodejs-ED8B00?style=for-the-badge&logo=node&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![laravel](https://img.shields.io/badge/laravel-14354C?style=for-the-badge&logo=laravel&logoColor=white) 
 
 <hr>
 
 ### Databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <hr>
 
 
