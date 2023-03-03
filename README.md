@@ -50,7 +50,7 @@ My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate 
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbayoumi&theme=gruvbox)](https://elbayoumi.github.io/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elbayoumi&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elbayoumi&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://elbayoumi.github.io/)
 
 
   
