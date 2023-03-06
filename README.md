@@ -1,8 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Mohamed+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm mohamed and Welcome to my Profile👋 animated typed out" width="100%"/>
     
 
-
-My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate of Computer Science  from <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
+I completed my graduation in Postgraduate of Computer Science  from <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
 <br> [my Portfolio](https://elbayoumi.github.io)
 ## My interests:
 
