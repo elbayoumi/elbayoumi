@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Wesam+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm mohamed and Welcome to my Profile👋 animated typed out" width="100%"/>
     
+<img src="https://media.licdn.com/dms/image/D4E16AQHN1L5jNGhf9w/profile-displaybackgroundimage-shrink_350_1400/0/1673304292103?e=1680739200&v=beta&t=Bv_tlLif-pPqVbnndUlmL6b3cFWYVj-RZOeaGZVqU-s" alt="">
+<link rel="stylesheet" href="style.css">
 
 
 My name is Mohammed Ashraf Elbayoumi. I completed my graduation in Postgraduate of Computer Science  from <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
