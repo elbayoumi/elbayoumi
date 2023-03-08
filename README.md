@@ -28,9 +28,7 @@ I completed my graduation in Postgraduate of Computer Science  from <a href="htt
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200"/ alt="developer">
 </div> 
 <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
-## Connect:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mohamedashrafelbayoumi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-elbayoumi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/00201020472050)
 
 ## Tools and Technologies I know
 
