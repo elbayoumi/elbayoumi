@@ -16,7 +16,7 @@
 
 I completed my graduation in Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" target="_blank"><img align="center" src="http://issr.cu.edu.eg/images/logoE.png" alt="Mohamed Ashraf whats app" height="50" width="50" /></a>
 <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
-<br> [my Portfolio](https://elbayoumi.github.io) 
+<!-- <br> [my Portfolio](https://elbayoumi.github.io)  -->
 ## My interests:
 
 - Software Engineering
