@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+Welcome%2C+I+promise+you+will+be+happy+here" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=e50914&center=true&vCenter=true&width=940&lines=Hey%2C+Welcome%2C+I+promise+you+will+be+happy+here+😉" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
 <!--     ///////// -->
 
 <h3 align="left">Connect with me:</h3>
