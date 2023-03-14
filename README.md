@@ -21,7 +21,7 @@ Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" tar
 
 - Software Engineering
 - Problem Solving
-- Front End
+- Full Stack developer
 - Background
 
 
