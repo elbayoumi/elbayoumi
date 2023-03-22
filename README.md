@@ -46,7 +46,6 @@ Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" tar
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white)
-<hr>
 
 
 
