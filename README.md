@@ -49,7 +49,6 @@ Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" tar
 <hr>
 
 
-<hr>
 
 ### Version Control
 
