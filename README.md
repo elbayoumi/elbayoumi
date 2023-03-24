@@ -55,13 +55,7 @@ Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" tar
 
 <br>
 
-## :fire: Github Stats :
 
-![Stats](https://github-readme-stats.vercel.app/api?username=elbayoumi&theme=onedark&show_icons=true&hide_border=true&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbayoumi&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbayoumi&theme=gruvbox)](https://elbayoumi.github.io/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=elbayoumi&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://elbayoumi.github.io/)
 
 
   
