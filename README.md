@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/elbayoumi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=It's+Antero+Selin+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+6%2B+years+of+experience+%F0%9F%93%88;" alt="mohamed ashraf elbayoumi" width="650" height="55">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=It's+Mohamed+Ashraf+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+6%2B+years+of+experience+%F0%9F%93%88;" alt="mohamed ashraf elbayoumi" width="650" height="55">
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <a href="https://github.com/elbayoumi">
