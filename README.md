@@ -38,21 +38,23 @@
     <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
   </h2>
   </br>
-  <a href="mailto:anteros.dev9471@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:mohamedashrafelbayoumi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/antero-selin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
+  <a href="https://linkedin.com/in/mohamed-elbayoumi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
+  &nbsp;&nbsp; 
+   <a href="https://www.facebook.com/mohamedashrafelbayoumi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/facebook"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/N4xToiwT3Ken" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype"  width="50" /></a>
+  <a href="https://twitter.com/MoElbayoum" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/elbayoumi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app"  width="50" /></a>
+  <a href="https://wa.me/201020472050" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mohamed-elbayoumi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://elbayoumi.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
 <p align="left">
-
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
+<!--  -->
+<!-- <a href="https://linkedin.com/in/mohamed-elbayoumi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamedashrafelbayoumi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
 <a href="https://twitter.com/MoElbayoumi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
-<a href="https://wa.me/201020472050" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Mohamed Ashraf whats app" height="30" width="75" /></a>
+<a href="https://wa.me/201020472050" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Mohamed Ashraf whats app" height="30" width="75" /></a> -->
  
 </p>
