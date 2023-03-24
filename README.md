@@ -46,7 +46,7 @@
   &nbsp;&nbsp;
   <a href="https://twitter.com/MoElbayoum" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/201020472050" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app"  width="50" /></a>
+  <a href="https://wa.me/201020472050" target="_blank" rel="noopener noreferrer"><img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://elbayoumi.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
