@@ -23,6 +23,10 @@
  <a href="https://github.com/elbayoumi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elbayoumi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
   </a>  
+     <a href="https://github.com/elbayoumi">
+    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/elbayoumi?theme=tokyonight"/> 
+  </a> 
+
 </p>
 
 <p align="center">
@@ -60,6 +64,3 @@
  
 </p>
 
-   <a href="https://github.com/elbayoumi">
-    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/elbayoumi?theme=tokyonight"/> 
-  </a> 
