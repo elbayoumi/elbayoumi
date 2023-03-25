@@ -2,6 +2,9 @@
   <a href="https://github.com/elbayoumi">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=1976d2&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=It's+Mohamed+Ashraf+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+have+2%2B+years+of+experience+%F0%9F%93%88;" alt="mohamed ashraf elbayoumi" width="650" height="55">
   </a>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=1976d2&center=true&vCenter=true&width=970&lines=Welcome%2C+🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
+  <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <a href="https://github.com/elbayoumi">
     <p align="center">
@@ -23,7 +26,7 @@
  Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" target="_blank"><img align="center" src="http://issr.cu.edu.eg/images/logoE.png" alt="Mohamed Ashraf whats app" height="50" width="50" /></a>
 <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=1976d2&center=true&vCenter=true&width=970&lines=Welcome%2C+🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
+
 <!--     ///////// -->
 <p align="center" style="margin-bottom: 10px;">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/elbayoumi?theme=buefy"/>
