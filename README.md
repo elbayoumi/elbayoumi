@@ -17,9 +17,9 @@
 
 <p align="center">
   
-   <a href="https://github.com/elbayoumi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/>
-  </a>
+<!--    <a href="https://github.com/elbayoumi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
+  </a> -->
   <a href="https://github.com/elbayoumi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elbayoumi&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true"/>
   </a>
