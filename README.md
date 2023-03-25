@@ -61,5 +61,5 @@
 </p>
 
    <a href="https://github.com/elbayoumi">
-    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev?theme=tokyonight"/> 
+    <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/elbayoumi?theme=tokyonight"/> 
   </a> 
