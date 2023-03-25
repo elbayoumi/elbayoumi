@@ -59,4 +59,3 @@
 <a href="https://wa.me/201020472050" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Mohamed Ashraf whats app" height="30" width="75" /></a> -->
  
 </p>
-[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dark
