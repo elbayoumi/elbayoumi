@@ -16,6 +16,7 @@
 <a href="https://www.facebook.com/mohamedashrafelbayoumi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
 <a href="https://twitter.com/MoElbayoumi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Mohamed Ashraf" height="30" width="40" /></a>
 <a href="https://wa.me/201020472050" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Mohamed Ashraf whats app" height="30" width="75" /></a>
+  <br/>
  Postgraduate of Computer Science  from : <a href="http://issr.cu.edu.eg/en/" target="_blank"><img align="center" src="http://issr.cu.edu.eg/images/logoE.png" alt="Mohamed Ashraf whats app" height="50" width="50" /></a>
 <a href="http://issr.cu.edu.eg/en/">faculty of graduate studies for statistical research cairo University</a>,
 </p>
