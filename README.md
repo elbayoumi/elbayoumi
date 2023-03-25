@@ -20,12 +20,12 @@
    <a href="https://github.com/elbayoumi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/> 
   </a> 
- <a href="https://github.com/elbayoumi">
+<!--  <a href="https://github.com/elbayoumi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elbayoumi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/>
   </a>  
      <a href="https://github.com/elbayoumi">
     <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/elbayoumi?theme=tokyonight"/> 
-  </a> 
+  </a>  -->
 
 </p>
 
