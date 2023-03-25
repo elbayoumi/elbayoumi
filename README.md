@@ -59,5 +59,3 @@
 <a href="https://wa.me/201020472050" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Mohamed Ashraf whats app" height="30" width="75" /></a> -->
  
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=elbayoumi&hide=contribs&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true"
->
