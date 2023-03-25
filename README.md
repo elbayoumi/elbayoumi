@@ -23,12 +23,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true"/>
   </a>
 </p>
-<!-- 
+
 <p align="center">
   <a href="https://github.com/elbayoumi">
     <img src = "profile-3d-contrib/profile-night-view.svg">
   </a>
-</p>  -->
+</p>  
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
