@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=33&duration=2800&pause=2000&color=1976d2&center=true&vCenter=true&width=970&lines=Welcome%2C+🤝+I+promise+you+will+be+happy+here+😉👍" align="middle" alt="Welcome, I promise you will be happy here" width="100%"/>
 <!--     ///////// -->
 <p align="center" style="margin-bottom: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=elbayoumi&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=elbayoumi&column=7&theme=midnight-purple"/>
 </p>
 
 <p align="center">
