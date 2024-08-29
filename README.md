@@ -35,7 +35,7 @@ Check out my GitHub stats below:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elbayoumi)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elbayoumi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Details
 
