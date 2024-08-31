@@ -22,7 +22,6 @@ I’d love to connect with you! Here’s where you can find me:
 - 🌍 [Personal Website](https://elbayoumi.github.io/)
 - 💼 [LinkedIn](https://linkedin.com/in/mohamed-elbayoumi)
 - 📘 [Facebook](https://www.facebook.com/mohamedashrafelbayoumi)
-- 🐦 [Twitter](https://twitter.com/MoElbayoumi)
 - 📱 [WhatsApp](https://wa.me/201020472050)
 
 ## 📊 GitHub Stats
