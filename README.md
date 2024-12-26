@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate and driven Software Developer with over 2 years of experience in creating impactful web applications. I thrive in dynamic environments and enjoy tackling complex problems with innovative solutions. My skill set spans backend and frontend development, and I'm always eager to dive into new technologies and frameworks.
+I’m a passionate and driven Software Developer with over 3 years of experience in creating impactful web applications. I thrive in dynamic environments and enjoy tackling complex problems with innovative solutions. My skill set spans backend and frontend development, and I'm always eager to dive into new technologies and frameworks.
 
 ## 💡 Technologies & Tools
 
