@@ -15,7 +15,7 @@ I'm a dedicated and enthusiastic Software Developer with over 4 years of experie
 ## 🎓 Education
 
 Postgraduate Diploma in Computer Science  
-[Faculty of Graduate Studies for Statistical Research, Cairo University](http://issr.cu.edu.eg/en/)
+[Faculty of Graduate Studies for Statistical Research, Cairo University](https://issr.cu.edu.eg/en/)
 
 This program equipped me with a solid theoretical foundation and hands-on experience in computer science and software engineering.
 
