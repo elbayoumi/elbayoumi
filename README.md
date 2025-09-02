@@ -39,6 +39,8 @@ Let’s connect and collaborate!
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbayoumi&theme=github_dark)
 
+<img src="https://raw.githubusercontent.com/elbayoumi/elbayoumi/output/snake.svg" alt="Snake animation" />
+
 ## 🎯 Goals
 
 I'm on a mission to grow as a developer and contribute to impactful projects continuously. Whether collaborating with a dynamic team or innovating on my own, I aim to build software that solves real-world problems and drives positive change.
