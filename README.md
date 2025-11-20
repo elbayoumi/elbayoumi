@@ -1,6 +1,35 @@
-# 👋 Mohamed Ashraf Elbayoumi
+# 👋 Hi, I'm Mohamed Ashraf Elbayoumi
 
 Building resilient, user-focused web applications with clean code, performance discipline, and maintainable architectures. I blend 4+ years across backend and frontend development to ship reliable releases in fast-paced environments.
+
+## 🧑‍💻 About Me
+
+I'm a dedicated and enthusiastic Software Developer with over 4 years of experience in building robust and user-focused web applications. I thrive in fast-paced environments and enjoy solving complex challenges through clean, scalable, and efficient code. I specialize in both backend and frontend development, and I’m always keen to explore emerging technologies.
+
+### 🎓 Education
+
+Postgraduate Diploma in Computer Science  \
+[Faculty of Graduate Studies for Statistical Research, Cairo University](http://issrconfrence.cu.edu.eg)
+
+This program equipped me with a solid theoretical foundation and hands-on experience in computer science and software engineering.
+
+## 🛠️ Tech Stack
+
+- **Languages:** PHP, JavaScript (ES6+)
+- **Frameworks & Libraries:** Laravel, Node.js, Vue.js
+- **Databases:** MySQL, PostgreSQL
+- **DevOps & Tools:** Docker, Git, Composer
+- **Core Skills:** REST APIs, WebSockets, Microservices Architecture
+
+## 📊 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elbayoumi&hide_border=true&count_private=true&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true)
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbayoumi&theme=github_dark)
+
+<img src="https://raw.githubusercontent.com/elbayoumi/elbayoumi/output/snake.svg" alt="Snake animation" />
 
 ## Snapshot
 - ⚡ Full-stack engineer specialized in PHP/Laravel, Node.js, and Vue.js.
@@ -28,13 +57,6 @@ Building resilient, user-focused web applications with clean code, performance d
   </tr>
 </table>
 
-## Technical Toolkit
-- **Languages:** PHP, JavaScript (ES6+)
-- **Frameworks & Libraries:** Laravel, Node.js, Vue.js
-- **Databases:** MySQL, PostgreSQL
-- **DevOps & Tooling:** Docker, Git, Composer
-- **Architectures:** REST APIs, WebSockets, Microservices
-
 ## Delivery Highlights
 - ✅ Designed and shipped resilient services and APIs prioritizing reliability and scalability.
 - ✅ Built polished interfaces that balance speed, accessibility, and brand alignment.
@@ -45,6 +67,12 @@ Building resilient, user-focused web applications with clean code, performance d
 - **Current** — Building and maintaining production-grade web platforms for B2B/B2C clients.
 - **4+ Years** — End-to-end delivery across backend, frontend, and DevOps responsibilities.
 - **Postgraduate Diploma** — Computer Science, Faculty of Graduate Studies for Statistical Research, Cairo University.
+
+## 🎯 Goals
+
+I'm on a mission to grow as a developer and contribute to impactful projects continuously. Whether collaborating with a dynamic team or innovating on my own, I aim to build software that solves real-world problems and drives positive change.
+
+If you're working on something exciting — let’s talk!
 
 ## Service Menu
 - **Product Engineering:** Feature delivery with clean architectures, automated tests, and CI/CD readiness.
@@ -58,11 +86,12 @@ Building resilient, user-focused web applications with clean code, performance d
 - 🔄 Iterate transparently: regular checkpoints, demo-ready increments, and clear documentation.
 - 🔍 Measure what matters: latency budgets, error budgets, and user-centric metrics.
 
-## Connect
-- 🌍 [Website](https://elbayoumi.github.io/)
+## 📬 Contact Me
+
+Feel free to reach out via:
+- 📧 [Email](mailto:mohamedashrafelbayoumi@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/mohamed-elbayoumi)
-- 📘 [Facebook](https://www.facebook.com/mohamedashrafelbayoumi)
 - 📱 [WhatsApp](https://wa.me/201020472050)
-- 🐦 [Twitter](https://twitter.com/MoElbayoumi)
+- 🌍 [Website](https://elbayoumi.github.io/)
 
 If you're building something ambitious or need a dependable partner for your next release, let's talk.
