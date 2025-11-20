@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mohamed Ashraf Elbayoumi
 
-Building resilient, user-focused web applications with clean code, performance discipline, and maintainable architectures. I blend 4+ years across backend and frontend development to ship reliable releases in fast-paced environments.
+Building resilient, user-focused web applications with clean code, performance discipline, and maintainable architectures. I blend 4+ years across backend and frontend development to ship reliable releases in fast-paced environments, keeping a sharp eye on performance budgets, observability, and documentation.
 
 ## 🧑‍💻 About Me
 
-I'm a dedicated and enthusiastic Software Developer with over 4 years of experience in building robust and user-focused web applications. I thrive in fast-paced environments and enjoy solving complex challenges through clean, scalable, and efficient code. I specialize in both backend and frontend development, and I’m always keen to explore emerging technologies.
+I'm a dedicated and enthusiastic Software Developer with over 4 years of experience building robust, user-focused web applications. I thrive in fast-paced environments and enjoy solving complex challenges through clean, scalable, and efficient code. I specialize in both backend and frontend development and stay curious about emerging technologies that can unlock better user outcomes.
 
 ### 🎓 Education
 
@@ -36,6 +36,7 @@ This program equipped me with a solid theoretical foundation and hands-on experi
 - 🧭 Comfortable owning features end-to-end: architecture, implementation, testing, and observability.
 - 🤝 Collaborative leader who keeps delivery structured, documented, and transparent.
 - 🚀 Experiment-driven mindset to keep products modern and competitive.
+- 🎯 Delivery focused: ship measurable improvements to latency, uptime, and conversion, not just code.
 
 ## Core Proficiencies
 <table>
