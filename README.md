@@ -1,98 +1,48 @@
-# 👋 Hi, I'm Mohamed Ashraf Elbayoumi
+# Mohamed Ashraf Elbayoumi
 
-Building resilient, user-focused web applications with clean code, performance discipline, and maintainable architectures. I blend 4+ years across backend and frontend development to ship reliable releases in fast-paced environments, keeping a sharp eye on performance budgets, observability, and documentation.
+**Full-stack engineer · Laravel / Node.js / Flutter / Rust · AI agent tooling**
 
-## 🧑‍💻 About Me
+I build production platforms end to end: real-time messaging, multi-vendor marketplaces, SaaS back offices, and developer tooling for AI agents. Based in Egypt, working with clients across the region.
 
-I'm a dedicated and enthusiastic Software Developer with over 4 years of experience building robust, user-focused web applications. I thrive in fast-paced environments and enjoy solving complex challenges through clean, scalable, and efficient code. I specialize in both backend and frontend development and stay curious about emerging technologies that can unlock better user outcomes.
+## Featured work
 
-### 🎓 Education
+| Project | What it is | Stack |
+|---|---|---|
+| [**Crewloom**](https://github.com/elbayoumi/crewloom) | Repository-native toolkit for specialist AI agent work: 42 role guides, working memory, bilingual context packs, local checks. Apache-2.0 | Python |
+| [**Rveta Framework**](https://github.com/elbayoumi/Rveta-Framework) | Rust web framework with a security-first core and AI-assisted scaffolding | Rust |
+| [**Forge**](https://github.com/elbayoumi/Forge-Framework) | Semantic compiler: JavaScript UI declarations to native app code at build time | JavaScript |
+| [**ai-cli**](https://github.com/elbayoumi/ai-cli) | Terminal-first autonomous engineering agent runtime with sandboxed workspace and plugin skills | Node.js |
+| [**OmniRoute**](https://github.com/elbayoumi/OmniRoute) (fork) | Open-source AI gateway: one endpoint, many providers | TypeScript |
 
-Postgraduate Diploma in Computer Science  \
-[Faculty of Graduate Studies for Statistical Research, Cairo University](http://issrconfrence.cu.edu.eg)
+## Production systems (private repositories)
 
-This program equipped me with a solid theoretical foundation and hands-on experience in computer science and software engineering.
+- **Chix**: self-hosted, encrypted, real-time chat and calls platform. Flutter app, Node.js/Socket.io backend, React web and admin.
+- **Busaty**: SaaS for school bus, parent and student management. Laravel 12, GraphQL, FCM notifications.
+- **Wasal**: multi-vendor delivery super-app (food, grocery, pharmacy, parcels, e-commerce).
+- **Subscriber edge platform**: PPPoE/IPoE termination, RADIUS accounting, policy enforcement.
+- **RUMUZE**: agency workspace and client delivery projects.
 
-## 🛠️ Tech Stack
+## Tech
 
-- **Languages:** PHP, JavaScript (ES6+)
-- **Frameworks & Libraries:** Laravel, Node.js, Vue.js
-- **Databases:** MySQL, PostgreSQL
-- **DevOps & Tools:** Docker, Git, Composer
-- **Core Skills:** REST APIs, WebSockets, Microservices Architecture
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 📊 GitHub Insights
+## Education
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elbayoumi&hide_border=true&count_private=true&show_icons=true&theme=radical)
+Postgraduate Diploma in Computer Science, Faculty of Graduate Studies for Statistical Research, Cairo University.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elbayoumi&show_icons=true&theme=github_dark&langs_count=8&layout=compact&hide_border=true)
+## Contact
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbayoumi&theme=github_dark)
+[Website](https://web.1devx.com/) · [GitHub](https://github.com/elbayoumi)
 
-<img src="https://raw.githubusercontent.com/elbayoumi/elbayoumi/output/snake.svg" alt="Snake animation" />
-
-## Snapshot
-- ⚡ Full-stack engineer specialized in PHP/Laravel, Node.js, and Vue.js.
-- 🧭 Comfortable owning features end-to-end: architecture, implementation, testing, and observability.
-- 🤝 Collaborative leader who keeps delivery structured, documented, and transparent.
-- 🚀 Experiment-driven mindset to keep products modern and competitive.
-- 🎯 Delivery focused: ship measurable improvements to latency, uptime, and conversion, not just code.
-
-## Core Proficiencies
-<table>
-  <tr>
-    <td><strong>Backend Engineering</strong></td>
-    <td><progress value="92" max="100"></progress> 92%</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend Engineering</strong></td>
-    <td><progress value="85" max="100"></progress> 85%</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Delivery</strong></td>
-    <td><progress value="80" max="100"></progress> 80%</td>
-  </tr>
-  <tr>
-    <td><strong>Systems Design</strong></td>
-    <td><progress value="78" max="100"></progress> 78%</td>
-  </tr>
-</table>
-
-## Delivery Highlights
-- ✅ Designed and shipped resilient services and APIs prioritizing reliability and scalability.
-- ✅ Built polished interfaces that balance speed, accessibility, and brand alignment.
-- ✅ Improved team velocity with clear documentation, code reviews, and reproducible environments.
-- ✅ Integrated observability and performance budgets to keep systems healthy under load.
-
-## Experience Timeline
-- **Current** — Building and maintaining production-grade web platforms for B2B/B2C clients.
-- **4+ Years** — End-to-end delivery across backend, frontend, and DevOps responsibilities.
-- **Postgraduate Diploma** — Computer Science, Faculty of Graduate Studies for Statistical Research, Cairo University.
-
-## 🎯 Goals
-
-I'm on a mission to grow as a developer and contribute to impactful projects continuously. Whether collaborating with a dynamic team or innovating on my own, I aim to build software that solves real-world problems and drives positive change.
-
-If you're working on something exciting — let’s talk!
-
-## Service Menu
-- **Product Engineering:** Feature delivery with clean architectures, automated tests, and CI/CD readiness.
-- **API & Integrations:** REST/WebSocket design, third-party integrations, performance tuning.
-- **Frontend Craft:** Responsive UIs in Vue.js with smooth interactions and strong accessibility defaults.
-- **Reliability:** Containerized environments (Docker), monitoring hooks, and graceful degradation patterns.
-
-## Collaboration Principles
-- 📐 Plan before coding: clarify requirements, risks, and interfaces.
-- 🧪 Test early: unit, integration, and contract tests to prevent regressions.
-- 🔄 Iterate transparently: regular checkpoints, demo-ready increments, and clear documentation.
-- 🔍 Measure what matters: latency budgets, error budgets, and user-centric metrics.
-
-## 📬 Contact Me
-
-Feel free to reach out via:
-- 📧 [Email](mailto:mohamedashrafelbayoumi@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/mohamed-elbayoumi)
-- 📱 [WhatsApp](https://wa.me/201020472050)
-- 🌍 [Website](https://elbayoumi.github.io/)
-
-If you're building something ambitious or need a dependable partner for your next release, let's talk.
+<img src="https://github-readme-stats.vercel.app/api?username=elbayoumi&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="GitHub stats" />
